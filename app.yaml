@@ -1,4 +1,4 @@
-service: default
+service: long-request
 runtime: nodejs14
 automatic_scaling:
   max_instances: 50
